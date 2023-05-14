@@ -7,7 +7,7 @@
 - 🌱 Learning more about advanced 3D rendering techniques
 - 🎓 Proficient in TypeScript and JavaScript
 - 🔭 Always eager to collaborate on projects
-- 📫 Reach me at: myemail@gmail.com
+- 📫 Reach me on Discord: [<img src="https://img.shields.io/badge/Discord-T7SEN.%230097-blue?style=flat&logo=discord" />](https://discord.com/users/170916597156937728)
 
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 
