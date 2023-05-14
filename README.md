@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hey there, I'm T7SEN!</h1>
 
-<h3 align="center">A Passionate Software Developer | 3D Visuals Enthusiast</h3>
+<h3 align="center">💻 Passionate Software Developer | 🎨 3D Visuals Enthusiast</h3>
 
-- 🌐 Crafting code and turning coffee into stunning 3D visuals!
-- 💼 Currently working with React, Node.js, and Three.js
-- 🌱 Learning more about advanced 3D rendering techniques
-- 🎓 Proficient in TypeScript and JavaScript
-- 🔭 Always eager to collaborate on projects
-- 📫 Reach me on Discord: [<img src="https://img.shields.io/badge/Discord-T7SEN.%230097-blue?style=flat&logo=discord" />](https://discord.com/users/170916597156937728)
+- 🌐 I transform ☕ into 💻 code, crafting amazing 3D visuals!
+- 💼 Currently pushing pixels with React, Node.js, and Three.js
+- 🌱 Always sharpening my axe; currently learning advanced 3D rendering techniques
+- 🎓 TypeScript and JavaScript Ninja
+- 🤝 Always on the lookout to collaborate on interesting projects
+- 📫 Let's chat on Discord: [<img src="https://img.shields.io/badge/Discord-T7SEN.%230097-blue?style=flat&logo=discord" />](https://discord.com/users/170916597156937728)
 
-<h3 align="center">⚡ Tech Stack ⚡</h3>
+<h3 align="center">🛠️ My Toolkit 🧰</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="ReactJs">
@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-  🚀 Let's code something awesome together!
+  🚀 Ready to code the extraordinary? Let's embark on this exciting journey together!
 </p>
