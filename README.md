@@ -12,7 +12,7 @@
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 
 <p align="center">
-  <a href=”https://www.google.com“><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="ReactJs"></a>
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="ReactJs">
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" alt="Node.js">
   <img src="https://img.shields.io/badge/-Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge" alt="Three.js">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
